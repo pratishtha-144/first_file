@@ -1,3 +1,3 @@
 # first_file
-this is my first git repository
-author- Pratishtha singh
+This is my first git repository.
+Author- Pratishtha singh
